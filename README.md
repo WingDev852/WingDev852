@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ### Hi there 👋
 * 👂 My name is Rocky Lai
 * 👩 Pronouns: Rocky the boxer or as A$AP Rocky, You can choose
 * 🔭 I’m currently working on my fullstack skills and python
 * 🌱 I’m currently learning Python 
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
+* 🤔 I’m looking for help with to get better at my fullstack and python
 * 💬 Ask me about: 
 * 📫 How to reach me: You can reach me by sending me an email: wing_lai_dev@hotmail.com
 * ❤️ I love snowboarding, chilling with friends and watching some anime
