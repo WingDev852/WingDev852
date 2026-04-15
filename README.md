@@ -19,7 +19,7 @@
 > *"Carry the Wings of Freedom. Keep moving forward."*
 
 - 🧑‍🚀 **Alias:** Rocky (or A$AP Rocky — choose your fighter)
-- 🛠️ **Current Mission:** Trying to pivor to more backend, now i'm polishing my skills for javascrip and python
+- 🛠️ **Current Mission:** Advancing toward the backend — honing my JavaScript and Python skills for what lies beyond the walls
 - 🌱 **Training Arc:** Python, one line at a time
 - 🤝 **Seeking Allies:** Looking for guidance to level up my coding arsenal
 - 💬 **Ask Me About:** Anything tech (or anime theories 👀)
