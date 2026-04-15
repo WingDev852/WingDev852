@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,100:2e7d32&height=180&section=header&text=Shinzou%20wo%20Sasageyo%20-%20I'm%20Rocky&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,100:2e7d32&height=180&section=header&text=Hello%20%20-%20I'm%20Rocky&fontSize=45&fontColor=ffffff" />
 </p>
 
 <!-- Wings of Freedom -->
