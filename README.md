@@ -14,7 +14,7 @@
   <a href="mailto:wing_dev_lai@hotmail.com">
     <img src="https://img.shields.io/badge/Email-2e7d32?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Wingdev852">
+  <a href="https://github.com/WingDev852">
     <img src="https://img.shields.io/badge/GitHub-0b1f14?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -112,12 +112,12 @@ My goal is to use this section to highlight projects that demonstrate:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Wingdev852&show_icons=true&hide_border=true&bg_color=0b1f14&title_color=ffffff&text_color=ffffff&icon_color=2e7d32&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=WingDev852&show_icons=true&hide_border=true&bg_color=0b1f14&title_color=ffffff&text_color=ffffff&icon_color=2e7d32&rank_icon=github"
     height="170"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wingdev852&layout=compact&hide_border=true&bg_color=0b1f14&title_color=ffffff&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingDev852&layout=compact&hide_border=true&bg_color=0b1f14&title_color=ffffff&text_color=ffffff"
     height="170"
     alt="Most Used Languages"
   />
@@ -125,7 +125,7 @@ My goal is to use this section to highlight projects that demonstrate:
 
 <p align="center">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Wingdev852&hide_border=true&background=0b1f14&ring=2e7d32&fire=2e7d32&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa"
+    src="https://nirzak-streak-stats.vercel.app/?user=WingDev852&hide_border=true&background=0b1f14&ring=2e7d32&fire=2e7d32&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa"
     alt="GitHub Contribution Streak"
   />
 </p>
@@ -152,7 +152,7 @@ I'm always interested in connecting with other developers, collaborating on proj
 
 <p align="center">
   <img
-    src="https://visitcount.itsvg.in/api?id=Wingdev852&icon=3&color=3"
+    src="https://visitcount.itsvg.in/api?id=WingDev852&icon=3&color=3"
     alt="Profile Views"
   />
 </p>
