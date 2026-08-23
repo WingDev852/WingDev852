@@ -108,30 +108,6 @@ My goal is to use this section to highlight projects that demonstrate:
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=WingDev852&show_icons=true&hide_border=true&bg_color=0b1f14&title_color=ffffff&text_color=ffffff&icon_color=2e7d32&rank_icon=github&cache_seconds=3600"
-    height="170"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WingDev852&layout=compact&hide_border=true&bg_color=0b1f14&title_color=ffffff&text_color=ffffff&cache_seconds=3600"
-    height="170"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=WingDev852&hide_border=true&background=0b1f14&ring=2e7d32&fire=2e7d32&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
 ## Let's Connect
 
 I'm always interested in connecting with other developers, collaborating on projects, and discussing opportunities in software development.
