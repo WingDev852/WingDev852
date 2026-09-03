@@ -5,7 +5,7 @@
   />
 </p>
 
-<h3 align="center">Full-Stack Developer | JavaScript • Python • Web Development</h3>
+<h3 align="center">Experience Designer | UX/UI • Interaction Design • Web Development</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wing-lai-41529189/">
@@ -23,23 +23,42 @@
 
 ## About Me
 
-I'm a developer focused on **web development and backend engineering**, with a strong interest in building practical, maintainable applications.
+Hello, I'm Rocky 👋
 
-I enjoy turning ideas into working software and continuously improving my understanding of software architecture, APIs, databases, and modern development practices.
+I'm a **graduate of the Bachelor Experience Design at Thomas More**. My background combines **experience design, UX/UI, interaction design and web development**.
 
-Currently, I'm strengthening my skills in **JavaScript and Python** while building projects that allow me to apply what I learn in real-world scenarios.
+I'm passionate about creating digital experiences that are functional, intuitive and enjoyable to use. I enjoy exploring the complete process — from understanding user needs and developing concepts to designing interfaces, creating prototypes and bringing ideas to life through code.
+
+My technical background in web development allows me to bridge the gap between **design and development**, giving me a practical understanding of both sides of the digital product process.
 
 ### What I Bring
 
-* 💻 Experience with modern web technologies
-* 🔧 Interest in backend development and API design
-* 🧠 Strong focus on continuous learning and problem solving
-* 🛠️ Hands-on approach through personal and practical projects
-* 🤝 Open to collaboration, feedback and new opportunities
+* 🎨 Experience in UX/UI and digital experience design
+* 🧠 User-centered and problem-solving mindset
+* 🖥️ Strong interest in web development and interactive experiences
+* ✏️ Prototyping and interface design with Figma
+* 💻 Knowledge of modern web technologies
+* 🔍 Curious and continuously learning
+* 🤝 Comfortable working across design and development
 
 ---
 
-## Technical Skills
+## Design & Technical Skills
+
+### UX & Experience Design
+
+<p>
+  <img src="https://img.shields.io/badge/UX%20Design-0b1f14?style=for-the-badge&logoColor=white" alt="UX Design" />
+  <img src="https://img.shields.io/badge/UI%20Design-0b1f14?style=for-the-badge&logoColor=white" alt="UI Design" />
+  <img src="https://img.shields.io/badge/Interaction%20Design-0b1f14?style=for-the-badge&logoColor=white" alt="Interaction Design" />
+  <img src="https://img.shields.io/badge/Prototyping-0b1f14?style=for-the-badge&logoColor=white" alt="Prototyping" />
+</p>
+
+### Design Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-0b1f14?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+</p>
 
 ### Languages
 
@@ -74,43 +93,56 @@ Currently, I'm strengthening my skills in **JavaScript and Python** while buildi
 
 ---
 
-## What I'm Currently Working On
+## Experience Design
 
-I'm currently focused on improving my backend development skills and becoming more comfortable building complete applications from frontend to backend.
+As a graduate of **Bachelor Experience Design at Thomas More**, I approach digital products from both a user and technical perspective.
 
-### Current areas of focus
+I'm interested in creating experiences that are:
 
-* JavaScript & modern web development
-* Python development
-* REST APIs & backend architecture
-* Database design and data management
-* Authentication & application security
-* Writing clean and maintainable code
-* Building and documenting real-world projects
+* 👥 User-centered
+* 🎯 Purpose-driven
+* 🧩 Intuitive and accessible
+* ✨ Visually engaging
+* 💻 Technically realistic
+* 🔄 Continuously improved through feedback and iteration
+
+I enjoy going from **research and ideation → wireframes → prototypes → testing → development**.
 
 ---
 
 ## Featured Projects
 
-> 🚧 I'm currently building and refining projects to showcase here.
+My projects combine **experience design and technology**, showcasing how I approach real-world problems and turn ideas into interactive digital experiences.
 
-My goal is to use this section to highlight projects that demonstrate:
+Projects focus on:
 
-* Real-world problem solving
-* Frontend and backend integration
-* API development
+* UX research and user needs
+* User journeys and information architecture
+* Wireframing and prototyping
+* UI and interaction design
+* Usability testing
+* Frontend development
+* API integration
 * Database implementation
-* Authentication and authorization
-* Clean code and project structure
-* Deployment and documentation
+* Design-to-development workflows
 
-**More projects coming soon.**
+🚧 **More projects coming soon.**
+
+---
+
+## Design × Development
+
+I believe great digital products come from understanding both **the people who use them and the technology that powers them**.
+
+My background in Experience Design allows me to think about usability, interaction and visual design, while my development experience allows me to turn those ideas into working products.
+
+> **Understand the user. Design the experience. Build the interaction.**
 
 ---
 
 ## Let's Connect
 
-I'm always interested in connecting with other developers, collaborating on projects, and discussing opportunities in software development.
+I'm always interested in connecting with people who are passionate about **UX, UI, technology, digital products and creative problem solving**.
 
 <p>
   📧 <strong>Email:</strong> <a href="mailto:wing_dev_lai@hotmail.com">wing_dev_lai@hotmail.com</a>
@@ -121,7 +153,7 @@ I'm always interested in connecting with other developers, collaborating on proj
 ---
 
 <p align="center">
-  <i>Building. Learning. Improving.</i>
+  <i>Designing. Building. Exploring.</i>
   <br/>
   <sub>Thanks for visiting my profile.</sub>
 </p>
