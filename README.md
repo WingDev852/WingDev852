@@ -27,7 +27,7 @@ Hello, I'm Rocky 👋
 
 I'm a **graduate of the Bachelor Experience Design at Thomas More**. My background combines **experience design, UX/UI, interaction design and web development**.
 
-I'm passionate about creating digital experiences that are functional, intuitive and enjoyable to use. I enjoy exploring the complete process — from understanding user needs and developing concepts to designing interfaces, creating prototypes and bringing ideas to life through code.
+I'm passionate about creating digital experiences that are functional, intuitive and enjoyable to use. I enjoy exploring the complete process from understanding user needs and developing concepts to designing interfaces, creating prototypes and bringing ideas to life through code.
 
 My technical background in web development allows me to bridge the gap between **design and development**, giving me a practical understanding of both sides of the digital product process.
 
