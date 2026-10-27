@@ -61,7 +61,6 @@ I like owning the full process: understanding user needs, shaping concepts, desi
 <p>
   <img src="https://img.shields.io/badge/Node.js-0b1f14?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-0b1f14?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-0b1f14?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-0b1f14?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Git-0b1f14?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
