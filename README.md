@@ -65,19 +65,7 @@ I like owning the full process: understanding user needs, shaping concepts, desi
   <img src="https://img.shields.io/badge/Git-0b1f14?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
-## Featured Projects
 
-<!--
-  Replace the placeholder rows below with your real projects.
-  Tip: pin your best 4–6 repositories on your profile as well.
--->
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Project Name**](https://github.com/WingDev852/your-repo) | One sentence on the problem it solves and your role. | React · Node.js · MongoDB |
-| [**Project Name**](https://github.com/WingDev852/your-repo) | One sentence on the problem it solves and your role. | Figma · Next.js |
-
-Each project covers the path from research and wireframes to prototype, testing and implementation.
 
 ## Let's Connect
 
