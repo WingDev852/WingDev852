@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,100:2e7d32&height=170&section=header&text=Rocky%20Lai&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Experience%20Designer%20%7C%20UX%2FUI%20%26%20Front-end%20Development&descSize=16&descAlignY=62" alt="Rocky Lai – Experience Designer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,100:2e7d32&height=170&section=header&text=Rocky%20Lai&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Experience%20Designer%20%7C%20UX%2FUI%20%7C%20Front-end%20%7C%20Cyber%20Security%20Student&descSize=16&descAlignY=62" alt="Rocky Lai – Experience Designer" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## About
 
-I'm a graduate of the **Bachelor Experience Design at Thomas More**, working at the intersection of **UX/UI design, interaction design and web development**.
+I'm a graduate of the **Bachelor Experience Design at Thomas More**, working at the intersection of **UX/UI design, interaction design and web development**. I'm currently pursuing a **second bachelor's degree in Cyber Security**, adding a security mindset to how I design and build digital products.
 
 I like owning the full process: understanding user needs, shaping concepts, designing interfaces in Figma, and building them in code. Being comfortable on both sides of design and development helps me create products that are intuitive, accessible and technically realistic.
 
@@ -32,6 +32,7 @@ I like owning the full process: understanding user needs, shaping concepts, desi
 | **UI & Interaction Design** | Wireframes, high-fidelity interfaces, prototypes in Figma |
 | **Front-end Development** | Responsive, interactive interfaces with React and Next.js |
 | **Back-end Basics** | APIs and database integration with Node.js and MongoDB |
+| **Cyber Security** *(currently studying)* | Secure-by-design thinking, building safer and more trustworthy products |
 
 ## Skills & Tools
 
